@@ -1,3 +1,3 @@
-# CNN-LSTM-WaveNet02
+# CNN-LSTM02
 
-WaveNetちゃんと設定したバージョン。音声は聞けたものではない。
+損失関数をL1に変更
